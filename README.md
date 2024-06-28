@@ -6,7 +6,7 @@ TechPay Entertainment is a versatile mobile application designed to provide user
 
 - **Entertainment News:** Stay updated with the latest entertainment news articles.
 - **Movie Search:** Search and discover detailed information about movies.
-- **Favorites:** Save your favorite articles and movies for later access.
+- **Favorites:** Save your favorite movies for later access.
 - **Responsive Design:** Optimized for various screen sizes and orientations.
 - **Dark/Light Mode:** Switch between dark and light themes for better visual experience.
 
