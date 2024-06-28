@@ -30,8 +30,8 @@ Run the following command to install the necessary dependencies:
 - flutter pub get
 
 Use the following command to run the app on an emulator or connected device:
-- flutter runs
+- flutter run
 
 ### Prerequisites
 
-- Flutter installed on your machine.
+- Latest Flutter version installed on your machine.
