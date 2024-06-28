@@ -15,12 +15,11 @@ TechPay Entertainment is a versatile mobile application designed to provide user
 
 - **Splash Screen**
 - **Home Screen**
-- **News Screen**
 - **Article Detail Screen**
 - **Movie Collection/Search Screen**
 - **Movie Detail Screen**
 - **Favorites Screen**
-
+- **Tieckets Purchase Screen**
 
 ## Setup and Installation
 
