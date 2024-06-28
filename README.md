@@ -10,8 +10,6 @@ TechPay Entertainment is a versatile mobile application designed to provide user
 - **Responsive Design:** Optimized for various screen sizes and orientations.
 - **Dark/Light Mode:** Switch between dark and light themes for better visual experience.
 
-## Screens
-
 
 ## Screens
 
